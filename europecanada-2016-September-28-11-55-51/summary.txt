@@ -1,0 +1,6 @@
+europe:183
+canada:176
+europecanada:0
+none:84
+empty:0
+total_lines:443
