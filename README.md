@@ -26,4 +26,3 @@ $ bash tweet.sh
 
 #running and analyzing live
 Run tweet.sh and select option 2 to only mine. In a separate terminal, run the tweet.sh again but this time selecting option 3. This will analyze the current raw twitter data file and produce a the results. This analysis can be setup with a bash script to rerun over an interval and thus producing 'live' results.
-
